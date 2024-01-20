@@ -1,0 +1,374 @@
+{ "pid": 22236, "tid": 34359738368, "ph": "M", "name": "thread_name", "args": { "name": "ReadEntireBinlogFromIpcAsync" } },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656646952, "dur": 24613, "ph": "X", "name": "WaitForConnectionAsync", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656671566, "dur": 2511902, "ph": "X", "name": "UpdateFromStreamAsync", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656671580, "dur": 188, "ph": "X", "name": "ReadAsync 0", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656671773, "dur": 1, "ph": "X", "name": "ProcessMessages 4", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656671775, "dur": 238, "ph": "X", "name": "ReadAsync 4", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656672017, "dur": 5, "ph": "X", "name": "ProcessMessages 59", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656672024, "dur": 2786, "ph": "X", "name": "ReadAsync 59", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656674814, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656674816, "dur": 277, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675098, "dur": 16, "ph": "X", "name": "ProcessMessages 2109", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675117, "dur": 311, "ph": "X", "name": "ReadAsync 2109", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675431, "dur": 19, "ph": "X", "name": "ProcessMessages 1399", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675474, "dur": 185, "ph": "X", "name": "ReadAsync 1399", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675663, "dur": 2, "ph": "X", "name": "ProcessMessages 1329", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675666, "dur": 303, "ph": "X", "name": "ReadAsync 1329", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675974, "dur": 2, "ph": "X", "name": "ProcessMessages 1686", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656675978, "dur": 293, "ph": "X", "name": "ReadAsync 1686", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656676275, "dur": 2, "ph": "X", "name": "ProcessMessages 2642", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656676279, "dur": 243, "ph": "X", "name": "ReadAsync 2642", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656676532, "dur": 1, "ph": "X", "name": "ProcessMessages 1417", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656676535, "dur": 339, "ph": "X", "name": "ReadAsync 1417", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656676878, "dur": 2, "ph": "X", "name": "ProcessMessages 2427", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656676881, "dur": 323, "ph": "X", "name": "ReadAsync 2427", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656677236, "dur": 6, "ph": "X", "name": "ProcessMessages 1785", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656677259, "dur": 295, "ph": "X", "name": "ReadAsync 1785", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656677558, "dur": 2, "ph": "X", "name": "ProcessMessages 1670", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656677561, "dur": 251, "ph": "X", "name": "ReadAsync 1670", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656677843, "dur": 2, "ph": "X", "name": "ProcessMessages 1378", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656677846, "dur": 200, "ph": "X", "name": "ReadAsync 1378", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678050, "dur": 2, "ph": "X", "name": "ProcessMessages 2125", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678054, "dur": 255, "ph": "X", "name": "ReadAsync 2125", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678338, "dur": 3, "ph": "X", "name": "ProcessMessages 1391", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678342, "dur": 321, "ph": "X", "name": "ReadAsync 1391", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678668, "dur": 2, "ph": "X", "name": "ProcessMessages 1428", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678670, "dur": 277, "ph": "X", "name": "ReadAsync 1428", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678952, "dur": 3, "ph": "X", "name": "ProcessMessages 3280", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656678956, "dur": 296, "ph": "X", "name": "ReadAsync 3280", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656679259, "dur": 3, "ph": "X", "name": "ProcessMessages 1697", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656679264, "dur": 275, "ph": "X", "name": "ReadAsync 1697", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656679543, "dur": 3, "ph": "X", "name": "ProcessMessages 2928", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656679547, "dur": 248, "ph": "X", "name": "ReadAsync 2928", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656679800, "dur": 2, "ph": "X", "name": "ProcessMessages 1917", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656679804, "dur": 297, "ph": "X", "name": "ReadAsync 1917", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680105, "dur": 2, "ph": "X", "name": "ProcessMessages 1992", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680108, "dur": 211, "ph": "X", "name": "ReadAsync 1992", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680323, "dur": 2, "ph": "X", "name": "ProcessMessages 2375", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680327, "dur": 244, "ph": "X", "name": "ReadAsync 2375", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680575, "dur": 2, "ph": "X", "name": "ProcessMessages 2033", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680579, "dur": 222, "ph": "X", "name": "ReadAsync 2033", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680806, "dur": 3, "ph": "X", "name": "ProcessMessages 2251", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680810, "dur": 94, "ph": "X", "name": "ReadAsync 2251", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680905, "dur": 18, "ph": "X", "name": "ProcessMessages 2458", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656680924, "dur": 206, "ph": "X", "name": "ReadAsync 2458", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656681136, "dur": 291, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656681431, "dur": 1, "ph": "X", "name": "ProcessMessages 890", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656681434, "dur": 202, "ph": "X", "name": "ReadAsync 890", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656681639, "dur": 3, "ph": "X", "name": "ProcessMessages 2883", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656681643, "dur": 231, "ph": "X", "name": "ReadAsync 2883", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656681878, "dur": 2, "ph": "X", "name": "ProcessMessages 941", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656681881, "dur": 5166, "ph": "X", "name": "ReadAsync 941", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687051, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687053, "dur": 15, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687070, "dur": 1, "ph": "X", "name": "ProcessMessages 36", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687072, "dur": 37, "ph": "X", "name": "ReadAsync 36", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687113, "dur": 12, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687127, "dur": 72, "ph": "X", "name": "ReadAsync 4", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687206, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687208, "dur": 30, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687241, "dur": 2, "ph": "X", "name": "ProcessMessages 164", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687244, "dur": 41, "ph": "X", "name": "ReadAsync 164", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687290, "dur": 2, "ph": "X", "name": "ProcessMessages 144", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687294, "dur": 48, "ph": "X", "name": "ReadAsync 144", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687345, "dur": 3, "ph": "X", "name": "ProcessMessages 284", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687350, "dur": 32, "ph": "X", "name": "ReadAsync 284", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687385, "dur": 1, "ph": "X", "name": "ProcessMessages 68", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687388, "dur": 25, "ph": "X", "name": "ReadAsync 68", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687416, "dur": 1, "ph": "X", "name": "ProcessMessages 96", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687418, "dur": 25, "ph": "X", "name": "ReadAsync 96", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687447, "dur": 11, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687460, "dur": 13, "ph": "X", "name": "ReadAsync 4", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687476, "dur": 15, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687497, "dur": 16, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687517, "dur": 1, "ph": "X", "name": "ProcessMessages 16", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687519, "dur": 22, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687542, "dur": 1, "ph": "X", "name": "ProcessMessages 96", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687544, "dur": 22, "ph": "X", "name": "ReadAsync 96", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687571, "dur": 24, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687598, "dur": 20, "ph": "X", "name": "ReadAsync 80", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687622, "dur": 2, "ph": "X", "name": "ProcessMessages 52", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687625, "dur": 25, "ph": "X", "name": "ReadAsync 52", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687652, "dur": 1, "ph": "X", "name": "ProcessMessages 128", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687655, "dur": 29, "ph": "X", "name": "ReadAsync 128", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687686, "dur": 1, "ph": "X", "name": "ProcessMessages 80", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687688, "dur": 19, "ph": "X", "name": "ReadAsync 80", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687710, "dur": 1, "ph": "X", "name": "ProcessMessages 48", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687712, "dur": 15, "ph": "X", "name": "ReadAsync 48", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687728, "dur": 1, "ph": "X", "name": "ProcessMessages 96", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687730, "dur": 12, "ph": "X", "name": "ReadAsync 96", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687744, "dur": 27, "ph": "X", "name": "ReadAsync 32", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687773, "dur": 1, "ph": "X", "name": "ProcessMessages 76", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687775, "dur": 29, "ph": "X", "name": "ReadAsync 76", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687806, "dur": 4, "ph": "X", "name": "ProcessMessages 200", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687811, "dur": 22, "ph": "X", "name": "ReadAsync 200", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687835, "dur": 1, "ph": "X", "name": "ProcessMessages 112", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687837, "dur": 38, "ph": "X", "name": "ReadAsync 112", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687880, "dur": 2, "ph": "X", "name": "ProcessMessages 108", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687883, "dur": 35, "ph": "X", "name": "ReadAsync 108", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687921, "dur": 3, "ph": "X", "name": "ProcessMessages 160", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687926, "dur": 30, "ph": "X", "name": "ReadAsync 160", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687959, "dur": 2, "ph": "X", "name": "ProcessMessages 160", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687963, "dur": 27, "ph": "X", "name": "ReadAsync 160", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687993, "dur": 1, "ph": "X", "name": "ProcessMessages 32", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656687995, "dur": 600, "ph": "X", "name": "ReadAsync 32", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656688601, "dur": 36, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656688639, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656688641, "dur": 489, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656689136, "dur": 159, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656689299, "dur": 2, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656689302, "dur": 2743, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656692050, "dur": 162, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656692215, "dur": 6781, "ph": "X", "name": "ProcessMessages 15848", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656699000, "dur": 252, "ph": "X", "name": "ReadAsync 15848", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656699255, "dur": 14, "ph": "X", "name": "ProcessMessages 322", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656699271, "dur": 111134, "ph": "X", "name": "ReadAsync 322", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656810429, "dur": 30, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656810460, "dur": 265, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656810755, "dur": 30, "ph": "X", "name": "ProcessMessages 516", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656810786, "dur": 4078, "ph": "X", "name": "ReadAsync 516", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656814870, "dur": 335, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656815209, "dur": 2, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656815212, "dur": 1074, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656816291, "dur": 173, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656816467, "dur": 6, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522656816474, "dur": 2356462, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659172943, "dur": 2, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659172946, "dur": 86, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659173045, "dur": 14, "ph": "X", "name": "ProcessMessages 68", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659173061, "dur": 2174, "ph": "X", "name": "ReadAsync 68", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659175240, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659175242, "dur": 51, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659175299, "dur": 1, "ph": "X", "name": "ProcessMessages 20", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659175302, "dur": 988, "ph": "X", "name": "ReadAsync 20", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659176295, "dur": 121, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659176420, "dur": 1, "ph": "X", "name": "ProcessMessages 13", "args": {} },
+{ "pid": 22236, "tid": 34359738368, "ts": 1705522659176425, "dur": 6747, "ph": "X", "name": "ReadAsync 13", "args": {} },
+{ "pid": 22236, "tid": 1801, "ts": 1705522659184454, "dur": 383, "ph": "X", "name": "ReadEntireBinlogFromIpcAsync", "args": {} },
+{ "pid": 22236, "tid": 30064771072, "ph": "M", "name": "thread_name", "args": { "name": "BuildAsync" } },
+{ "pid": 22236, "tid": 30064771072, "ts": 1705522656642048, "dur": 2541498, "ph": "X", "name": "RunBackend", "args": {} },
+{ "pid": 22236, "tid": 30064771072, "ts": 1705522656642196, "dur": 4688, "ph": "X", "name": "BackendProgram.Start", "args": {} },
+{ "pid": 22236, "tid": 30064771072, "ts": 1705522659183549, "dur": 322, "ph": "X", "name": "await WaitForAndApplyScriptUpdaters", "args": {} },
+{ "pid": 22236, "tid": 30064771072, "ts": 1705522659183875, "dur": 2, "ph": "X", "name": "await taskToReadBuildProgramOutput", "args": {} },
+{ "pid": 22236, "tid": 1801, "ts": 1705522659184840, "dur": 7, "ph": "X", "name": "BuildAsync", "args": {} },
+{ "pid": 22236, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 22236, "tid": 1, "ts": 1705522656602026, "dur": 1318, "ph": "X", "name": "<Add>b__0", "args": {} },
+{ "pid": 22236, "tid": 1, "ts": 1705522656603348, "dur": 37617, "ph": "X", "name": "<SetupBuildRequest>b__0", "args": {} },
+{ "pid": 22236, "tid": 1, "ts": 1705522656640968, "dur": 1057, "ph": "X", "name": "WriteJson", "args": {} },
+{ "pid": 22236, "tid": 1801, "ts": 1705522659184848, "dur": 6, "ph": "X", "name": "", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1705522656672433, "dur":1994, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522656674435, "dur":193, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522656674647, "dur":77, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1705522656674725, "dur":869, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522656675749, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1705522656675837, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1705522656675904, "dur":174, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1705522656676231, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656676417, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656676600, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656676773, "dur":162, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656677064, "dur":188, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656677625, "dur":191, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656677858, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656677973, "dur":238, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656678372, "dur":221, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656678647, "dur":171, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656678933, "dur":146, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656679148, "dur":162, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656679436, "dur":177, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656679759, "dur":185, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656680048, "dur":168, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656680362, "dur":211, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656680632, "dur":154, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656680918, "dur":160, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656681197, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656681416, "dur":148, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1705522656681666, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1705522656681894, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1705522656682154, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1705522656682223, "dur":194, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1705522656682523, "dur":150, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1705522656675684, "dur":7035, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522656682720, "dur":2493549, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522659176270, "dur":714, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522659176984, "dur":57, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522659177258, "dur":1692, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1705522656678079, "dur":4992, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705522656683074, "dur":491, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705522656683565, "dur":4600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688184, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688167, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688380, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688379, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688471, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688470, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688725, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688867, "dur":55, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705522656688923, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705522656689007, "dur":2487332, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705522656678375, "dur":4754, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705522656683132, "dur":1478, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705522656684610, "dur":3559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705522656688173, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1705522656688390, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705522656688463, "dur":365, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705522656688462, "dur":367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705522656688933, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705522656688997, "dur":2487240, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705522656677061, "dur":5713, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705522656682776, "dur":5282, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705522656688091, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1705522656688171, "dur":711, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1705522656688883, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1705522656688089, "dur":1219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1705522656689559, "dur":51, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705522656689994, "dur":121300, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1705522656815671, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1705522656815670, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1705522656815760, "dur":1385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1705522656817148, "dur":2359181, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705522656680616, "dur":2719, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705522656683336, "dur":4749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705522656688201, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705522656688447, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705522656688515, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705522656688573, "dur":286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705522656688861, "dur":573, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705522656689564, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\PackageCache\\com.unity.burst@1.8.11\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":4, "ts":1705522656688088, "dur":1527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":4, "ts":1705522656690118, "dur":61, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705522659173786, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705522656692801, "dur":2481100, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":5, "ts":1705522656677338, "dur":5491, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705522656682832, "dur":1414, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705522656684246, "dur":3882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705522656688131, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1705522656688193, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705522656688287, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705522656688388, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705522656688447, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705522656688446, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705522656688908, "dur":4234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705522656693150, "dur":2483131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705522656677617, "dur":5266, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705522656682886, "dur":1477, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705522656684367, "dur":3787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705522656688181, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1705522656688157, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1705522656688397, "dur":122, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705522656688520, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705522656688520, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705522656688663, "dur":81, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705522656688757, "dur":278, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705522656689035, "dur":2487199, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705522656677966, "dur":5031, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705522656683011, "dur":1318, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705522656684329, "dur":3849, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705522656688191, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705522656688179, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705522656688382, "dur":346, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705522656688381, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705522656688758, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705522656688906, "dur":53, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705522656688983, "dur":4420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1705522656693426, "dur":2482911, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705522656679312, "dur":3996, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705522656683308, "dur":4898, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705522656688215, "dur":91, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1705522656688207, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1705522656688386, "dur":600, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705522656688385, "dur":602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705522656689003, "dur":2487233, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705522656678681, "dur":4526, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705522656683211, "dur":1359, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705522656684571, "dur":3604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705522656688176, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1705522656688386, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705522656688439, "dur":300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705522656688438, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705522656688803, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705522656688946, "dur":9657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1705522656698609, "dur":2477733, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705522656678987, "dur":4307, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705522656683297, "dur":1189, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705522656684487, "dur":3639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705522656688126, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1705522656688294, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1705522656688394, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705522656688387, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705522656688478, "dur":498, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705522656688477, "dur":500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1705522656689010, "dur":6009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1705522656695027, "dur":2481241, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705522656679198, "dur":4103, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705522656683303, "dur":804, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705522656684114, "dur":4010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688136, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688125, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688292, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688290, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688391, "dur":78, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688471, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688470, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688623, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688695, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688694, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688948, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1705522656688947, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1705522656689043, "dur":2487259, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705522656679615, "dur":3701, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705522656683316, "dur":4857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705522656688174, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1705522656688264, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1705522656688420, "dur":450, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705522656688419, "dur":452, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705522656688933, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705522656689002, "dur":2487237, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705522656679802, "dur":3519, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705522656683322, "dur":4837, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688163, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688283, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688276, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688374, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688430, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688429, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688759, "dur":70, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688874, "dur":70, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705522656688956, "dur":5793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":13, "ts":1705522656694768, "dur":2481507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705522656680087, "dur":3241, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705522656683328, "dur":4851, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705522656688179, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1705522656688364, "dur":90, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705522656688456, "dur":75, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705522656688454, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705522656688727, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705522656688879, "dur":98, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705522656688999, "dur":6135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":14, "ts":1705522656695145, "dur":2481191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705522656680361, "dur":2972, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705522656683334, "dur":4727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705522656688183, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1705522656688282, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1705522656688410, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1705522656688409, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1705522656688625, "dur":56, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1705522656688874, "dur":76, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1705522656689017, "dur":8030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1705522656697055, "dur":2479286, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705522656680876, "dur":2465, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705522656683342, "dur":4832, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688188, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688175, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688390, "dur":91, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688482, "dur":304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Games\\Flappy Bird\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688481, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688829, "dur":53, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688909, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705522656688992, "dur":5825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"F:/Gaming Course/Unity-Projects/Flappy Bird/Flappy Bird_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1705522656694830, "dur":2481505, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705522659183133, "dur":672, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 22236, "tid": 1801, "ts": 1705522659184887, "dur": 1992, "ph": "X", "name": "Wait for external events", "args": {"First to finish": "backend1.traceevents"} },
+{ "pid": 22236, "tid": 1801, "ts": 1705522659186956, "dur": 2922, "ph": "X", "name": "backend1.traceevents", "args": {} },
+{ "pid": 22236, "tid": 1801, "ts": 1705522659184441, "dur": 5491, "ph": "X", "name": "Write chrome-trace events", "args": {} },
