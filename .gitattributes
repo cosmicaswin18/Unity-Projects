@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+193cf8a5c8353ed5b14ca60e6edb4e3f3d3059a2c156dafe3361559f829ce5d7 filter=lfs diff=lfs merge=lfs -text
+Bird/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+Flappy filter=lfs diff=lfs merge=lfs -text
